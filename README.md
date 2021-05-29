@@ -24,3 +24,27 @@ DyachenkoBall1.cpp
 DyachenkoBall1_control.cpp
 
 ![Alt-текст]( https://github.com/kedamoD/DyachenkoBall/blob/main/Pictures/003.JPG  "пример трубопровода с управлением")
+
+4)	Добовляем изменение цвета трубопроводу относительно его положения, т.е. цвет зависит от координат центра ррисуемого круга.
+
+файл для этой задачи
+DyachenkoBall1_control_color.cpp
+
+![Alt-текст]( https://github.com/kedamoD/DyachenkoBall/blob/main/Pictures/004.JPG  "пример трубопровода с управлением и меняющимся цветом")
+![Alt-текст]( https://github.com/kedamoD/DyachenkoBall/blob/main/Pictures/005.JPG  "пример трубопровода с управлением и меняющимся цветом")
+
+5)	Программа с двумя шариками. Один из них управляемый
+
+файл для этой задачи
+DyachenkoBall2_catch-up.cpp
+
+пример рисования двух трубопроводов
+![Alt-текст]( https://github.com/kedamoD/DyachenkoBall/blob/main/Pictures/007.JPG  "пример рисования двух трубопроводов")
+
+6)	Программа с двумя шариками. Один из них управляемый и может менять свой цвет при нажатии на кнопки F1, F2, F3.
+
+пример рисования двух трубопроводов
+![Alt-текст]( https://github.com/kedamoD/DyachenkoBall/blob/main/Pictures/008.JPG  "пример рисования двух трубопроводов")
+
+![Alt-текст]( https://github.com/kedamoD/DyachenkoBall/blob/main/Pictures/009.JPG  "пример рисования двух трубопроводов")
+
